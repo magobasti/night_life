@@ -125,7 +125,7 @@ function MyTabs(){
               }}/>
             <Tab.Screen name="Usuario" component={Usu}
                         options={{
-                            tabBarLabel:'Usuario',
+                            tabBarLabel:'Cadena',
                             headerShown: false,
                             tabBarIcon: ({ focused }) => (
                               <View
